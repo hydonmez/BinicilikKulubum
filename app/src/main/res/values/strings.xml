@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">BiniciKulubum</string>
+    <string-array name="cinsiyet">
+        <item>ERKEK</item>
+        <item>KADIN</item>
+    </string-array>
+
+    <string-array name="saatler">
+        <item>10.00</item>
+        <item>11.00</item>
+        <item>12.00</item>
+        <item>13.00</item>
+        <item>14.00</item>
+        <item>15.00</item>
+        <item>16.00</item>
+        <item>17.00</item>
+    </string-array>
+
+    <string-array name="sehir">
+        <item>Cide</item>
+        <item>Gaziantep</item>
+        <item>Turgutlu</item>
+        <item>ankara</item>
+        <item>antalya</item>
+        <item>istanbul</item>
+        <item>izmir</item>
+    </string-array>
+</resources>

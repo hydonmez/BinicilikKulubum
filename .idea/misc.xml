@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_admin_anasayfasi.xml" value="0.33" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_anasayfa.xml" value="0.22" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_atlarigorrezervasyonyap.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_ciftlik_ekle.xml" value="0.25" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_cv_olustur_sayfasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_cv_sayfasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_egitmen_ekle.xml" value="0.25" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_egitmenleri_gor_rezarvasyonyap.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_kayit_ol_sayfasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_kullanici_giris_sayfasi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_rezarvasyonlarim.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/activity_rezervasyon_ver.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/atlar_recyclerview.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/deneme.xml" value="0.18704710144927536" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/dialog_rezarvasyon.xml" value="0.22" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/dialog_sifremi_unuttum.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/egitmenler_recyclerview.xml" value="0.40425531914893614" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/girisanimasyonu_main.xml" value="0.25" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/rezarvasyonlarim_recyclerview.xml" value="0.33" />
+        <entry key="..\:/Users/husey/Desktop/BiniciKulubum/app/src/main/res/layout/sehirler_recyclerview.xml" value="0.25" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/drawable/ic_rezervasyon.xml" value="0.277" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/drawable/ic_rezervesyon.xml" value="0.277" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_anasayfa.xml" value="0.5" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_ciftlik_ekle.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_cv_olustur_sayfasi.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_cv_sayfasi.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_egitmen_ekle.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_egitmenleri_gor_rezarvasyonyap.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_kayit_ol_sayfasi.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_kullanici_giris_sayfasi.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_rezarvasyonlarim.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/activity_rezervasyon_ver.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/deneme.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/dialog_rezarvasyon.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/dialog_sifremi_unuttum.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/egitmenler.xml" value="0.25" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/egitmenler_recyclerview.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/girisanimasyonu_main.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/rezarvasyonlarim_recyclerview.xml" value="0.3532608695652174" />
+        <entry key="..\:/Users/hydon/Downloads/BiniciKulubum/BiniciKulubum/app/src/main/res/layout/sehirler_recyclerview.xml" value="0.3532608695652174" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

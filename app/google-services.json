@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "927084236385",
+    "project_id": "binicikulubum",
+    "storage_bucket": "binicikulubum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927084236385:android:1b9c5a10ebf5f00dd86420",
+        "android_client_info": {
+          "package_name": "com.huso.binicikulubum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927084236385-nojell4mma25qh8kn58dovjlrqpuoj4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZFrzOsAZyK_nvksJJfycRe0cAGVXSbpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927084236385-nojell4mma25qh8kn58dovjlrqpuoj4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
